@@ -6,7 +6,7 @@ My work is mainly between development and infrastructure. I focus on building cl
 
 ### Tools I use most
 
-Kubernetes, Helm, Argo CD, Terraform, Terragrunt, AWS, Azure, Docker, GitLab CI, GitHub Actions, Prometheus, Grafana, Loki. I write Go, Rust, Bash and Python, and earlier Kotlin, Java and PHP.
+![Kubernetes, Terraform, AWS, Azure, Docker, Linux, Ansible, GitLab, GitHub Actions, Prometheus, Grafana, Nginx, Go, Rust, Bash, Python, Kotlin](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,docker,linux,ansible,gitlab,githubactions,prometheus,grafana,nginx,go,rust,bash,python,kotlin&perline=9)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Babakkamali&theme=github-dark-blue&hide_border=true">
